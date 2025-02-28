@@ -88,7 +88,7 @@ window#waybar {
 }
 
 #backlight {
-  color: @green;
+  color: @mauve;
 }
 
 #pulseaudio {
@@ -111,18 +111,18 @@ window#waybar {
 }
 
 #network {
-  color: @red;
+  color: @flamingo;
   border-radius: 15px 0px 0px 15px;
   padding-left: 15px;
   margin-left: 5px;
 }
 
 #battery {
-  color: @mauve;
+  color: @green;
 }
 
 #clock {
-  color: @teal;
+  color: @levender;
   border-radius: 0px 15px 15px 0px;
   padding-right: 15px;
   margin-right: 10px;
